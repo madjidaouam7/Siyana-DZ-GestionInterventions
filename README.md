@@ -16,7 +16,8 @@ Le projet a été réalisé comme projet de formation afin de mettre en pratique
 
 L'application est déployée sur Render.
 
-- **Application Web :** [Accéder à Siyana DZ](https://siyana-web-demo.onrender.com/)
+- **Application Web (Blazor) :** [Accéder à Siyana DZ](https://siyana-web-demo.onrender.com/)
+- **API REST (ASP.NET Core) :** [Lancer l'api Siyana DZ](https://siyana-api-demo.onrender.com/)
 
 > **Note :** Cette version est hébergée sur l'offre gratuite de Render à des fins de démonstration. La base de données SQLite et les photos stockées localement peuvent être perdues après certains redémarrages ou redéploiements. La disponibilité du service peut également varier. Cette version n'est pas destinée à une utilisation en production avec des données importantes.
 
